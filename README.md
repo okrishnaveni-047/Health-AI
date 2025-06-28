@@ -60,10 +60,7 @@ streamlit run app.py
 MIT
 ---
 ## 🤝 Contributors
-- Koppula Durga Shyambhavi
-- Kandimalla Anitha
-- Kanakapudi Sravanthi
-- Kagitham Nikitha
+- Olpu Krishnaveni
 ---
 ## 🌐 Acknowledgements
 - IBM Watson Machine Learning  
